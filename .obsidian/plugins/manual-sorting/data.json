@@ -1,0 +1,45 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "BSDT-M简易模型",
+        "2026.3.31.md",
+        "2026-3-31-作业回复.md",
+        "圣杯.md",
+        "市场逻辑与结构基础",
+        "BSDT-M总纲",
+        "总结.md",
+        "2026-03-27.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "市场逻辑与结构基础": {
+      "children": [
+        "市场逻辑与结构基础/杠杆散户.md",
+        "市场逻辑与结构基础/趋势投机者.md",
+        "市场逻辑与结构基础/市场逻辑与结构基础.md",
+        "市场逻辑与结构基础/套利者.md",
+        "市场逻辑与结构基础/LP.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "BSDT-M简易模型": {
+      "children": [
+        "BSDT-M简易模型/OI-NV 模块.md",
+        "BSDT-M简易模型/BSDT-M简易模型（01）.md",
+        "BSDT-M简易模型/BTC 最小阻力路径概率模型.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "BSDT-M总纲": {
+      "children": [
+        "BSDT-M总纲/七层交易境界.md",
+        "BSDT-M总纲/BSDT-M 核心总纲.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
