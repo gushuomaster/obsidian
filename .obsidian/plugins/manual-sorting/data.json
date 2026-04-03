@@ -2,6 +2,8 @@
   "customOrder": {
     "/": {
       "children": [
+        "未命名.base",
+        "git.md",
         "BSDT-M简易模型",
         "2026.3.31.md",
         "2026-3-31-作业回复.md",
@@ -25,6 +27,7 @@
     },
     "BSDT-M简易模型": {
       "children": [
+        "BSDT-M简易模型/Bias和方向.md",
         "BSDT-M简易模型/OI-NV 模块.md",
         "BSDT-M简易模型/BSDT-M简易模型（01）.md",
         "BSDT-M简易模型/BTC 最小阻力路径概率模型.md"
