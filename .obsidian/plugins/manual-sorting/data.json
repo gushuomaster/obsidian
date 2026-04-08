@@ -2,6 +2,7 @@
   "customOrder": {
     "/": {
       "children": [
+        "BSDT-M简易模型.rar",
         "未命名.base",
         "git.md",
         "BSDT-M简易模型",
@@ -27,6 +28,7 @@
     },
     "BSDT-M简易模型": {
       "children": [
+        "BSDT-M简易模型/我与庄家对赌那些年.md",
         "BSDT-M简易模型/Bias和方向.md",
         "BSDT-M简易模型/OI-NV 模块.md",
         "BSDT-M简易模型/BSDT-M简易模型（01）.md",
